@@ -56,16 +56,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 5400,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "shortcircuit",
-		"price": 2700,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "toxicfallout",
 		"price": 1620,
 		"karmatype": "Bad"
@@ -96,23 +86,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "resourcepodcrash",
-		"price": 324,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 540,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 1080,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "orbitaltraderarrival",
-		"price": 2700,
 		"karmatype": "Good"
 	},
 	{
@@ -151,11 +126,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
-		"price": 324,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "travelergroup",
 		"price": 40,
 		"karmatype": "Good"
@@ -179,16 +149,6 @@
 		"abr": "alphabeavers",
 		"price": 540,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1080,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 3240,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -242,7 +202,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -261,11 +221,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
@@ -281,5 +236,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 56
+	"total": 48
 }
